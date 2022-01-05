@@ -196,7 +196,9 @@
 }
 
 .footp{
-    font-size: 0.938rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    font-size: 1.10rem;
 }
 @media (max-width:1024px){
     html{
