@@ -230,6 +230,36 @@ margin-left: 3.125rem;
         font-size: 80%;
     }
 }
+@media(max-width:800px){
+html{
+    font-size: 80%;
+}
+.second{
+    flex-wrap:wrap;
+    height: auto;
+}
+.picture1{
+    flex:50%;
+    
+}
+.picture2{
+    flex:50%;
+    margin-top: 2rem;
+}
+.picture3{
+    margin-top: 2rem;
+}
+.third{
+    display: flex;
+    flex-wrap: wrap;
+    height:auto;
+   
+    flex-direction: row;
+}
+.picture4{
+    width:100%;
+}
+}
 @media (max-width:550px){
     html{
         font-size: 70%;
