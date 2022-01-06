@@ -145,6 +145,33 @@
 .details-box img{
     margin-bottom: 1rem;
 }
-@media only screen and (max-width : 576px) {
-  
+@media only screen and (max-width : 500px) {
+    .details-container{
+        flex-wrap: wrap;
+        height: auto;
+        flex-direction: column;
+    }
+    .details-box{
+        width:50vh;
+    }
+
 }
+@media only screen and (max-width : 390px) {
+    .logo img{
+        width: 14.5rem;
+        height: 7.375rem;
+    }
+    .logo{
+        margin-left: -6rem;
+    }
+    
+    .details-container{
+        flex-wrap: wrap;
+        height: auto;
+        flex-direction: column;
+    }
+    .details-box{
+        width:50vh;
+    }
+}
+ 
