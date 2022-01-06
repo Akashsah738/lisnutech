@@ -183,4 +183,11 @@ body{
         .content-container h1{
             font-size: 0.7rem;
     }
+        .logo img{
+             width: 14.5rem;
+            height: 7.375rem;
+    }
+        .logo{
+             margin-left: -6rem;
+    }
 }
