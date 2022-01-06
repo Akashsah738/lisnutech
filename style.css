@@ -853,7 +853,7 @@ body{
   
  @media only screen and (max-width: 1920px){
         .first{
-            padding-top: 1080px;
+            padding-top: 753px;
         }
          .fs{
              width:50%;
@@ -909,7 +909,7 @@ body{
     }
     @media only screen and (max-width: 1280px){
         .first{
-            padding-top: 900px;
+            padding-top: 753px;
         }
     }
     @media only screen and (max-width: 1080px){
