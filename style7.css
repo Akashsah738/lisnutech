@@ -264,6 +264,9 @@ html{
     html{
         font-size: 70%;
     }
+   .logo{
+    margin-top: -1.74rem;
+   } 
 }
 @media (max-width:550px){
     .second{
@@ -272,6 +275,10 @@ html{
     }
     .third{
         height: auto;
+    }
+    .logo{
+    margin: -5rem;
+    margin-top: -2.75rem;
     }
 }
 
