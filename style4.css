@@ -173,4 +173,12 @@
 .footp{
     font-size: 0.938rem;
 }
-
+@media only screen and (max-width : 390px) {
+    .logo img{
+        width: 14.5rem;
+        height: 7.375rem;
+    }
+    .logo{
+        margin-left: -6rem;
+    }
+}
