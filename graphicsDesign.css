@@ -164,3 +164,16 @@ body{
         font-size: 0.8rem;
     }
 }
+@media only screen and (max-width: 390px) {
+    .hero-container h1{
+        font-size: 4rem;
+    }
+    .content-container h1{
+        /* background-color: red; */
+        font-size: 0.8rem;
+    }
+    .content-container p{
+        font-size: 0.8rem;
+    }
+  }
+
