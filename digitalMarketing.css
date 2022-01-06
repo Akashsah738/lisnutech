@@ -172,3 +172,15 @@ body{
         text-align: center;
     }
 }
+    @media only screen and (max-width:390px){
+        .hero-container h1{
+            font-size: 4rem;
+        }
+        .content-container{
+            flex-wrap: wrap;
+            height: auto;
+        }
+        .content-container h1{
+            font-size: 0.7rem;
+    }
+}
